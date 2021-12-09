@@ -22,7 +22,3 @@ Prerequisite
 1. Java Virtual Machine version 1.7.0_06
 2. Eclipse IDE Kepler Service Release 2
 3. Raspberry Pi os: NOOBS v 1.3.8
-
-Contact:
-Mr.Jakapan Suaboot
-jakapan@coe.psu.ac.th
